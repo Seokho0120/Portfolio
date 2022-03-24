@@ -25,7 +25,6 @@ navbarMenu.addEventListener("click", (event) => {
 });
 
 //Handle Click on 'contact me' button on home
-
 const homeContactBtn = document.querySelector(".home__contact");
 homeContactBtn.addEventListener("click", () => {
   scrollIntoView("#contact");
