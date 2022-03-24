@@ -1,4 +1,5 @@
 # Portfolio
- Seokho's Portfolio
 
-왜 자꾸 리드미 
+Seokho's Portfolio
+
+왜 자꾸 리드미
