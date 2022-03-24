@@ -36,4 +36,4 @@ function scrollIntoView(selector) {
   scrollTo.scrollIntoView({ behavior: "smooth" });
 }
 
-const hahaha = 1;
+const hyhyhy = 1;

@@ -2,4 +2,4 @@
 
 Seokho's Portfolio
 
-왜 자꾸 리드미
+여기서 수정하라고?
