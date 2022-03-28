@@ -4,7 +4,7 @@
 
 21.11.18 - 21.11.26
 
-[Github](https://github.com/Seokho0120/Portfolio.git) | [회고](https://velog.io/@leesegho/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+[Github](https://github.com/Seokho0120/Portfolio.git) | [회고](https://velog.io/@leesegho/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | [구현영상](https://seokho0120.github.io/Portfolio/)
 
 ## Tech Stack
 
@@ -24,6 +24,6 @@ HTML | CSS | Java Script
 
 ✔️ BEM(Block Element Modifier)을 활용한 클래스명 작성 및 CSS 스타일링
 
-✔️ Javascript 를 학습하며 nav, click event, button, filtering 등 동적 요소 구현
+✔️ Javascript 를 학습하며 navbar, button click event, scroll 등 동적 요소 구현
 
 ✔️ CSS media queries를 이용한 반응형 구현
