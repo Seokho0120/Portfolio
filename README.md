@@ -27,3 +27,21 @@ HTML | CSS | Java Script
 ✔️ Javascript 를 학습하며 navbar, button click event, scroll 등 동적 요소 구현
 
 ✔️ CSS media queries를 이용한 반응형 구현
+
+## 구현영상
+
+스크롤 시 Navbar & Home 화면의 투명도 변화를 구현했습니다.
+
+![navbar home trasparent 변화](https://user-images.githubusercontent.com/93597794/160514122-82713ebf-1aca-466e-a146-09c5ba567a45.gif)
+
+클릭 시 원하는 Section으로 이동하는 버튼을 구현했습니다.
+
+![Click to Section 버튼](https://user-images.githubusercontent.com/93597794/160514391-c2c56288-21ed-4c59-a166-2999486f8107.gif)
+
+카테고리 버튼을 클릭 시 전체적인 animation이 일어나면서 원하는 내용을 filtering 합니다.
+
+![filtering animation 구현](https://user-images.githubusercontent.com/93597794/160514395-8c392548-b8e6-450e-a81c-c7dc72d5d8f7.gif)
+
+미디어 쿼리를 이용해 반응형 웹사이트를 디자인했습니다.
+
+![반응형 구현-min](https://user-images.githubusercontent.com/93597794/160514376-50eecf22-84c4-4b4c-89ac-5598d4b71694.gif)
