@@ -12,21 +12,28 @@ HTML | CSS | Java Script
 
 ## Overview
 
-첫 웹사이트를 구현한 프로젝트이며, 포트폴리오 강의를 참고하여 구현했습니다.
-
-개인 웹사이트 프로젝트 입니다. 순수 HTML, CSS를 이용하여 만들어보고, Vanilla Javascript를 이용하여 동적인 요소를 추가해보았습니다.
-
-기초적인 기획 (레이아웃, 디자인)과 스타일링으로 반응형 사이트를 구현했습니다.
+기획과 디자인, 개발까지 전체적인 사이클을 심플하게 구성한 반응형 웹 포트폴리오 프로젝트 입니다.
 
 ## What did I do
 
-✔️ HTML / CSS 기초 학습(Flex, Position, Transform 등)
+### 웹 포트폴리오 구현
 
-✔️ BEM(Block Element Modifier)을 활용한 클래스명 작성 및 CSS 스타일링
+- 순수 HTML, CSS를 활용했으며 Vanilla JS로 동적인 요소를 추가했습니다.
+- 기초적인 기획 (레이아웃, 디자인)과 스타일링으로 반응형 사이트를 구현했습니다.
 
-✔️ Javascript 를 학습하며 navbar, button click event, scroll 등 동적 요소 구현
+### HTML, CSS 기초 심화 학습
 
-✔️ CSS media queries를 이용한 반응형 구현
+- Flex, Position, Transform 등 속성을 이용해 요소를 원하는 위치에 배치하며 레이아웃을 구성했습니다.
+- BEM(Block Element Modifier)을 활용한 클래스명 작성 및 CSS 스타일링 했습니다.
+- media queries를 이용해 반응형 웹 사이트로 구현 했습니다.
+
+### Javascript 를 학습하며 동적 요소 구현
+
+- Navbar의 높이 이상으로 Scrolling이 발생하면 Navbar의 투명도가 조정됩니다.
+- 섹션의 id를 받아 scrollInToView함수를 이용해 원하는 위치로 스크롤링 및 이동이 가능한 Button을 구현했습니다.
+- 각각의 프로젝트에 data-type을 설정해 필터 버튼을 클릭 시 해당하는 프로젝트만 렌더링 됩니다.
+- 필터 버튼에 프로젝트 개수를 나타내는 숫자를 클릭 시 undefined가 나오는 블로커를 만났습니다. 버튼안의 span에 data-type이
+  설정되어 있지 않은것으로 판단되어, Source 탭에서 브레이크 포인트를 설정 후 디버깅을 통해 해결했습니다.
 
 ## 구현영상
 
